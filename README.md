@@ -1,4 +1,8 @@
-# Steps to reproduce
+# Vuetify and nuxt-windicss
+
+nuxt-windicss brokes styles with custom variables in vuetify.
+
+## Steps to reproduce
 
 1. `yarn install`
 2. `yarn dev` - should work fine, check it out.
