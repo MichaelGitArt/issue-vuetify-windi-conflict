@@ -1,0 +1,6 @@
+@use 'vuetify' with (
+  $reset: false,
+  $utilities: false,
+  $color-pack: false,
+  $font-size-root: 14px,
+);

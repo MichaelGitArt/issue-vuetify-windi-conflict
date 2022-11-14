@@ -1,0 +1,7 @@
+@use 'vuetify/settings' with (
+  $alert-border-radius: 0px,
+  $button-border-radius: 0px,
+  $button-height: 58px,
+  $button-font-size: 11px,
+  $button-colored-disabled: false,
+);

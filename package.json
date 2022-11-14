@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/kit": "^3.0.0-rc.13",
+    "nuxt": "3.0.0-rc.13",
+    "nuxt-windicss": "^2.5.3",
+    "sass": "^1.56.1",
+    "vite-plugin-vuetify": "^1.0.0"
+  },
+  "dependencies": {
+    "vuetify": "^3.0.1"
+  }
+}
